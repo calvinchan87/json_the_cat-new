@@ -1,0 +1,27 @@
+{
+  "name": "json_the_cat-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinchan87/json_the_cat-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinchan87/json_the_cat-new/issues"
+  },
+  "homepage": "https://github.com/calvinchan87/json_the_cat-new#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
